@@ -24,4 +24,4 @@ Este projeto é um sistema simples de Ponto de Venda (PDV) desenvolvido em Pytho
 python pdv.py
 ```
 ## 📊 Tabela de Casos de Teste (Exemplos)
-![Tabela de casos de testes](https://drive.google.com/file/d/1SpO7nI7Z8y-msWl2wW7gIJe0Z5QlCf2n/view?usp=drive_link)
+![Tabela de casos de testes](https://drive.google.com/uc?export=view&id=1SpO7nI7Z8y-msWl2wW7gIJe0Z5QlCf2n)
